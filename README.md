@@ -12,8 +12,8 @@ The dataset used for training and evaluation was the "Emotion" dataset available
 
 The DistilBERT model, a smaller and faster variant of BERT, was chosen for fine-tuning due to its efficiency in handling text classification tasks. The model was fine-tuned using the following specifications:
 
-Model Checkpoint: distilbert-base-uncased
-Number of Labels: 6 (corresponding to the six emotions in the dataset)
+- Model Checkpoint: distilbert-base-uncased
+- Number of Labels: 6 (corresponding to the six emotions in the dataset)
 
 ### Training
 
