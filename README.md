@@ -17,7 +17,7 @@ The DistilBERT model, a smaller and faster variant of BERT, was chosen for fine-
 
 ### Training
 
-The model was fine-tuned using the Hugging Face Trainer API. The following training parameters were used:
+The model was fine-tuned using the Hugging Face Trainer. The following training parameters were used:
 - Batch Size: 64
 - Learning Rate: 2e-5
 - Number of Epochs: 2
